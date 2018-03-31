@@ -1,0 +1,7 @@
+-   id: black
+    name: black
+    description: Format code using black
+    entry: black
+    language: python
+    types: [python]
+    files: ''

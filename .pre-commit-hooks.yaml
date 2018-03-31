@@ -1,0 +1,7 @@
+- id: black
+  name: black
+  description: Sort imports alphabetically with isort.
+  entry: black
+  language: python
+  types: [python]
+  files: ''
